@@ -5,5 +5,4 @@ var compteur = 2
 coeur.addEventListener("click", function(){
     compteur++
     heartCounter.innerHTML = compteur
-    console.log("test")
 })
