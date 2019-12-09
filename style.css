@@ -16,7 +16,8 @@
 }
 
 .container{
-    margin: 15px;
+    width: 320px;
+    margin: auto auto;
 }
 .body{
     width: 320px;
